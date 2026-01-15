@@ -9,9 +9,6 @@ I work with modern web, desktop, and AI-powered applications, turning ideas into
 ---
 
 ### 🌐 Connect with Me
-<a href="https://bsky.app/profile/frettedmelodist2007-eng">
-  <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-</a>
 <a href="https://instagram.com/fretted_melodist">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
