@@ -10,6 +10,9 @@ I work with modern web, desktop, and AI-powered applications, turning ideas into
 
 ### 🌐 Connect with Me
 
+<a href="https://portfolio-virid-mu-36.vercel.app/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+</a>
 <a href="https://instagram.com/fretted_melodist">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -19,6 +22,7 @@ I work with modern web, desktop, and AI-powered applications, turning ideas into
 <a href="mailto:frettedmelodist2007@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 
 ### 💻 Tech Stack
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -36,13 +40,7 @@ I work with modern web, desktop, and AI-powered applications, turning ideas into
 ### 🏆 Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=frettedmelodist2007-eng&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
 
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=frettedmelodist2007-eng&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
-<br>
-<img src="https://visitcount.itsvg.in/api?id=frettedmelodist2007-eng&icon=0&color=0" />
-
-</div>
 
 <!--
 **frettedmelodist2007-eng/frettedmelodist2007-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
