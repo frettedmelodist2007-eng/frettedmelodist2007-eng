@@ -9,6 +9,9 @@ I work with modern web, desktop, and AI-powered applications, turning ideas into
 ---
 
 ### 🌐 Connect with Me
+<a href="https://portfolio-virid-mu-36.vercel.app/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 <a href="https://instagram.com/fretted_melodist">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
