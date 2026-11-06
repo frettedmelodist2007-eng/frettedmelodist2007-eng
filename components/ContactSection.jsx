@@ -7,8 +7,8 @@ import { Mail, Github, Linkedin, Instagram, ArrowUpRight, Copy, Check } from 'lu
 const CONTACTS = [
   {
     name: 'Official Portfolio',
-    handle: 'frettedmelodist2007-eng.vercel.app',
-    url: 'https://frettedmelodist2007-eng.vercel.app/',
+    handle: 'frettedmelodist2007.vercel.app',
+    url: 'https://frettedmelodist2007.vercel.app/',
     icon: ArrowUpRight,
     isExternal: true,
   },

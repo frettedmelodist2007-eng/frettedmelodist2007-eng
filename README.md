@@ -2,7 +2,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="30%" align="center" valign="middle">
-      <a href="https://frettedmelodist2007-eng.vercel.app/">
+      <a href="https://frettedmelodist2007.vercel.app/">
         <img src="assets/profile.png" width="180" height="180" alt="Ayush R. - Portrait" style="border-radius: 50%; border: 1.5px solid #C6A66B; max-width: 100%;" />
       </a>
     </td>
@@ -14,7 +14,7 @@
         <font color="#F5F5F5" size="7"><b>AYUSH R.</b></font>
       </h1>
       <p style="margin: 4px 0 12px 0;">
-        <a href="https://frettedmelodist2007-eng.vercel.app/">
+        <a href="https://frettedmelodist2007.vercel.app/">
           <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=17&pause=1200&color=C6A66B&background=00000000&vCenter=true&width=450&lines=AI+STUDENT;DEVELOPER;CREATIVE+BUILDER;TECH+ENTHUSIAST" alt="Animated Designation" />
         </a>
       </p>
@@ -27,7 +27,7 @@
         </font>
       </p>
       <p style="margin: 0;">
-        <a href="https://frettedmelodist2007-eng.vercel.app/" target="_blank">
+        <a href="https://frettedmelodist2007.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO_%E2%86%97-C6A66B?style=for-the-badge&logo=vercel&logoColor=080808&labelColor=171717" height="34" alt="Explore My Portfolio" />
         </a>
         &nbsp;
@@ -61,7 +61,7 @@
         </font>
       </p>
       <p style="margin: 0;">
-        <a href="https://frettedmelodist2007-eng.vercel.app/" target="_blank">
+        <a href="https://frettedmelodist2007.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/VISIT_REAL_PORTFOLIO_%E2%86%97-C6A66B?style=for-the-badge&logo=three.js&logoColor=080808&labelColor=171717" height="36" alt="Visit Real Portfolio" />
         </a>
       </p>
@@ -406,7 +406,7 @@
     </td>
     <td width="40%" align="right" valign="middle">
       <p style="margin: 0;">
-        <a href="https://frettedmelodist2007-eng.vercel.app/" target="_blank">
+        <a href="https://frettedmelodist2007.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/OFFICIAL_PORTFOLIO_%E2%86%97-C6A66B?style=for-the-badge&logo=vercel&logoColor=080808&labelColor=171717" height="34" alt="Official Portfolio" />
         </a>
       </p>
