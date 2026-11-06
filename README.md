@@ -45,6 +45,32 @@
 
 <br/>
 
+<!-- ==================== 3D INTERACTIVE DASHBOARD SHOWCASE ==================== -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="background: #171717; border: 1.5px solid #C6A66B; border-radius: 8px; padding: 22px;">
+      <p style="margin: 0 0 6px 0;">
+        <font color="#C6A66B" size="2"><b>EXPERIENCE B &bull; NEXT.JS 16 &bull; THREE.JS &bull; WEBGL &bull; FRAMER MOTION</b></font>
+      </p>
+      <h2 style="margin: 0 0 10px 0;">
+        <font color="#F5F5F5" size="5">AYUSH R. &mdash; 3D INTERACTIVE DEVELOPER DASHBOARD</font>
+      </h2>
+      <p style="margin: 0 0 16px 0; max-width: 680px; line-height: 1.6;">
+        <font color="#A3A3A3" size="3">
+          A standalone immersive 3D digital identity featuring real-time metallic gold armillary sphere physics, interactive telemetry, live GitHub API charts, and smooth parallax motion.
+        </font>
+      </p>
+      <p style="margin: 0;">
+        <a href="https://ayushr-portfolio.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LAUNCH_INTERACTIVE_3D_EXPERIENCE_%E2%86%97-C6A66B?style=for-the-badge&logo=three.js&logoColor=080808&labelColor=171717" height="36" alt="Launch 3D Experience" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <img src="assets/gold-divider.svg" width="100%" alt="Section Divider" />
 
 <!-- ==================== 01 // ABOUT SECTION ==================== -->
