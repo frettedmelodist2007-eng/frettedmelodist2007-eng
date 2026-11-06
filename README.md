@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="assets/marquee.svg" width="100%" alt="Editorial Ticker" />
-</div>
-
-<br/>
-
 <!-- ==================== HERO SECTION (ASYMMETRIC COMPOSITION) ==================== -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
