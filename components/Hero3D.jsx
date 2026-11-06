@@ -138,12 +138,10 @@ export default function Hero3D() {
             </a>
 
             <a
-              href="https://ayushr-portfolio.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#contact"
               className="px-7 py-3.5 bg-bg-surface hover:bg-bg-secondary text-tx-primary border border-border hover:border-gold font-medium text-sm tracking-wider uppercase rounded-md transition-all duration-300 flex items-center gap-2 group"
             >
-              <span>VISIT PORTFOLIO</span>
+              <span>GET IN TOUCH</span>
               <ArrowUpRight className="w-4 h-4 text-gold group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
             </a>
           </div>
@@ -163,3 +161,4 @@ export default function Hero3D() {
     </section>
   );
 }
+

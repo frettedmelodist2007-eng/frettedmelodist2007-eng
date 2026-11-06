@@ -22,10 +22,13 @@ export default function Footer() {
       <div className="flex items-center gap-4 text-xs font-mono text-gold-muted mt-2">
         <a href="#introduction" className="hover:text-gold transition-colors">TOP &uarr;</a>
         <span>&bull;</span>
-        <a href="https://ayushr-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">MAIN PORTFOLIO ↗</a>
+        <a href="https://frettedmelodist2007-eng.vercel.app/" className="hover:text-gold transition-colors">PORTFOLIO</a>
+        <span>&bull;</span>
+        <a href="https://ayushr-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">GALAXY 3D (ARCHIVE) ↗</a>
         <span>&bull;</span>
         <a href="https://github.com/frettedmelodist2007-eng" target="_blank" rel="noopener noreferrer" className="hover:text-gold transition-colors">GITHUB ↗</a>
       </div>
     </footer>
   );
 }
+

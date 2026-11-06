@@ -100,15 +100,13 @@ export default function FloatingNav() {
 
         {/* Right CTA Links */}
         <div className="flex items-center gap-3">
-          <a
-            href="https://ayushr-portfolio.vercel.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="hidden sm:inline-flex items-center gap-1 text-xs font-mono text-gold hover:text-gold-bright tracking-wider uppercase border border-gold/30 hover:border-gold px-3.5 py-1.5 rounded-full transition-all"
+          <button
+            onClick={() => scrollTo('contact')}
+            className="hidden sm:inline-flex items-center gap-1 text-xs font-mono text-gold hover:text-gold-bright tracking-wider uppercase border border-gold/30 hover:border-gold px-3.5 py-1.5 rounded-full transition-all cursor-pointer"
           >
-            <span>PORTFOLIO</span>
+            <span>GET IN TOUCH</span>
             <ArrowUpRight className="w-3.5 h-3.5" />
-          </a>
+          </button>
 
           {/* Mobile Menu Button */}
           <button
@@ -145,14 +143,12 @@ export default function FloatingNav() {
               </button>
             ))}
             <div className="pt-4 border-t border-border mt-2">
-              <a
-                href="https://ayushr-portfolio.vercel.app/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full flex items-center justify-center gap-2 py-3 bg-gold text-bg font-semibold text-xs font-mono tracking-widest uppercase rounded-md"
+              <button
+                onClick={() => scrollTo('contact')}
+                className="w-full flex items-center justify-center gap-2 py-3 bg-gold text-bg font-semibold text-xs font-mono tracking-widest uppercase rounded-md cursor-pointer"
               >
-                <span>OPEN MAIN PORTFOLIO ↗</span>
-              </a>
+                <span>GET IN TOUCH &rarr;</span>
+              </button>
             </div>
           </div>
         </motion.div>
@@ -185,3 +181,4 @@ export default function FloatingNav() {
     </>
   );
 }
+

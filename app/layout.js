@@ -8,7 +8,7 @@ export const metadata = {
   openGraph: {
     title: 'AYUSH R. — Interactive 3D Developer Identity',
     description: 'Ideas into reality. Exploring the intersection of artificial intelligence, technology and creativity.',
-    url: 'https://ayushr-portfolio.vercel.app/',
+    url: 'https://frettedmelodist2007-eng.vercel.app/',
     siteName: 'AYUSH R.',
     locale: 'en_US',
     type: 'website',
@@ -24,3 +24,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+

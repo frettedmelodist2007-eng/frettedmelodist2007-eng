@@ -6,9 +6,9 @@ import { Mail, Github, Linkedin, Instagram, ArrowUpRight, Copy, Check } from 'lu
 
 const CONTACTS = [
   {
-    name: 'Personal Portfolio',
-    handle: 'ayushr-portfolio.vercel.app',
-    url: 'https://ayushr-portfolio.vercel.app/',
+    name: 'Official Portfolio',
+    handle: 'frettedmelodist2007-eng.vercel.app',
+    url: 'https://frettedmelodist2007-eng.vercel.app/',
     icon: ArrowUpRight,
     isExternal: true,
   },
@@ -139,3 +139,4 @@ export default function ContactSection() {
     </section>
   );
 }
+
