@@ -203,28 +203,21 @@ I am an Artificial Intelligence undergraduate and developer passionate about cre
 
 <div align="center">
 
-<!-- GITHUB STATS & STREAK -->
-<table border="0">
-  <tr>
-    <td valign="top" align="center">
-      <a href="https://github.com/frettedmelodist2007-eng">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frettedmelodist2007-eng&show_icons=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=a855f7&border_color=30363d" alt="Ayush's GitHub Stats" />
-      </a>
-    </td>
-    <td valign="top" align="center">
-      <a href="https://github.com/frettedmelodist2007-eng">
-        <img src="https://streak-stats.demolab.com/?user=frettedmelodist2007-eng&background=0d1117&border=30363d&stroke=00f0ff&ring=a855f7&fire=00f0ff&currStreakNum=00f0ff&sideNums=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e" alt="Ayush's Streak Stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <a href="https://github.com/frettedmelodist2007-eng">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frettedmelodist2007-eng&layout=compact&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- GITHUB STATS & STREAK (RESPONSIVE WRAP) -->
+<p align="center">
+  <a href="https://github.com/frettedmelodist2007-eng">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=frettedmelodist2007-eng&show_icons=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=a855f7&border_color=30363d" alt="Ayush's GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/frettedmelodist2007-eng">
+    <img src="https://streak-stats.demolab.com/?user=frettedmelodist2007-eng&background=0d1117&border=30363d&stroke=00f0ff&ring=a855f7&fire=00f0ff&currStreakNum=00f0ff&sideNums=a855f7&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e" alt="Ayush's Streak Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/frettedmelodist2007-eng">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frettedmelodist2007-eng&layout=compact&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+  </a>
+</p>
 
 <br/>
 
